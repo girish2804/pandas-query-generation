@@ -47,8 +47,8 @@ Find days where energy consumption exceeded 5 kWh.
 
 ## Output Files
 
-- **Results**: `query_results_YYYYMMDD_HHMMSS.json` - Complete execution results
-- **Logs**: `query_evaluation_YYYYMMDD_HHMMSS.log` - Detailed execution logs
+- **Results**: `query_results.json` - Complete execution results
+- **Logs**: `query_evaluation.log` - Detailed execution logs
 
 ## Default Queries
 
